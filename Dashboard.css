@@ -1,0 +1,48 @@
+
+
+.pick {
+    width: 30%;
+    padding: 10px;
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+
+.d1 {
+  margin-bottom: 10px;
+}
+
+.d3 {
+  margin-top: 10px;
+}
+
+.Barchart {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+
+.form-group {
+  padding-left: 30px;
+}
+
+.m2 {
+  width: 800px;
+  height: 150px;
+  margin-left: 20px;
+}
+
+.m1 {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.m3 {
+  margin-left: 20px;
+  width: 200px;
+}
+
+.Products {
+  font-family: sans-serif;
+  text-align: center;
+}
